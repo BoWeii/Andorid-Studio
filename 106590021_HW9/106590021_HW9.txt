@@ -1,0 +1,17 @@
+Q1:
+Smallest screen width
+
+Q2:
+res/values-en-rFR/
+
+Q3:
+res/values
+
+Q1:
+Match a View, perform an action, and assert and verify the result.
+
+Q2:
+@RunWith and @Test
+
+Q3:
+onView() to load the View from the current View hierarchy.

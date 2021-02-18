@@ -1,0 +1,8 @@
+Q1:
+You need to provide a layout for just one item of the list.
+
+Q2:
+RecyclerView.Adapter
+
+Q3:
+View.onClickListener

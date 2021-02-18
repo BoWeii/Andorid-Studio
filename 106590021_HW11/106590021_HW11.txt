@@ -1,0 +1,28 @@
+Q1:
+A message that the Android system sends when a system event occurs.
+
+Q2:
+registerBroadcastReceiver() and unRegisterBroadcastReceiver().
+
+Q3:
+You can use a broadcast intent to start an activity.
+
+Q4:
+LocalBroadcastManager
+
+Q1:
+You use notification channels to display notifications to the user in the device status bar.
+You use notification channels to group multiple notifications so that the user can control the notifications' behavior.
+Notification channels are not yet available in the Android Support Library package.
+
+Q2:
+NotificationCompat.Builder.notify()
+
+Q3:
+Title that describes the action
+
+Q4:
+NotificationCompat.Builder.addAction()
+
+Q5:
+PendingIntent.getBroadcast()

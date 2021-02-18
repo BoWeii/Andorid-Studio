@@ -1,0 +1,17 @@
+q1:
+NinePatchDrawable
+
+Q2:
+StateListDrawable
+
+q3:
+Theme.AppCompat.Light.DarkActionBar
+
+Q1:
+colorPrimary
+
+Q2:
+Design Support Library
+
+Q3:
+Any color shade that starts with A.
